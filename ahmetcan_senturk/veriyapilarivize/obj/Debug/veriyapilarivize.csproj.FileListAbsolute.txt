@@ -1,0 +1,10 @@
+C:\Users\canah\source\repos\veriyapilarivize\veriyapilarivize\obj\Debug\veriyapilarivize.csprojAssemblyReference.cache
+C:\Users\canah\source\repos\veriyapilarivize\veriyapilarivize\obj\Debug\veriyapilarivize.Form1.resources
+C:\Users\canah\source\repos\veriyapilarivize\veriyapilarivize\obj\Debug\veriyapilarivize.csproj.GenerateResource.cache
+C:\Users\canah\source\repos\veriyapilarivize\veriyapilarivize\obj\Debug\veriyapilarivize.csproj.CoreCompileInputs.cache
+C:\Users\canah\source\repos\veriyapilarivize\veriyapilarivize\bin\Debug\ahmetcan_senturk.exe.config
+C:\Users\canah\source\repos\veriyapilarivize\veriyapilarivize\bin\Debug\ahmetcan_senturk.exe
+C:\Users\canah\source\repos\veriyapilarivize\veriyapilarivize\bin\Debug\ahmetcan_senturk.pdb
+C:\Users\canah\source\repos\veriyapilarivize\veriyapilarivize\obj\Debug\ahmetcan_senturk.Properties.Resources.resources
+C:\Users\canah\source\repos\veriyapilarivize\veriyapilarivize\obj\Debug\ahmetcan_senturk.exe
+C:\Users\canah\source\repos\veriyapilarivize\veriyapilarivize\obj\Debug\ahmetcan_senturk.pdb
